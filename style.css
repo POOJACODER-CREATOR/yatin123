@@ -1,0 +1,22 @@
+#login_s {
+	background-color:midnightblue;
+	text-align: center;
+	color:royalblue;
+	}
+	
+#login_t {
+		background-color:lightsalmon;
+		text-align: center;
+		color:rosybrown;
+		}
+#logout {
+			float: left;
+		}
+.color_white {
+			color: white;
+			font-size: 25px;
+		}
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
